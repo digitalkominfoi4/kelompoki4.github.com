@@ -6,6 +6,43 @@
 
 /*Tulis code untuk heading*/
 
+/*Tulis code untuk our team*/
+.our-team{
+    width: 100%;
+    height: 1000px;
+    margin:0 auto;
+
+  }
+ 
+  .ourlesson{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: -70px;
+    margin-bottom: 20px;
+  }
+  .ourlesson-icon{
+    padding-left: 90px;
+  }
+  .lesson-gambar5{
+    margin-top: 150px;
+    margin-left: -350px;
+  }
+  .lesson-gambar6{
+    padding-left: 170px;
+  }
+  .lesson-gambar7{
+    margin-top: 40px;
+  }
+  .lesson-gambar9{
+    margin-top: 40px;
+  }
+  .suciono1 h3{
+    padding-left: 170px;
+  }
+  .suciono p{
+    margin-left: 175px;
+  }
+
 
 
 
@@ -236,6 +273,91 @@
 
 
 /*Tulis code untuk Our Team*/
+.our-team{
+    width: 100%;
+    height: 1900px;
+
+  }
+  .our-heading{
+    margin-top: -100px;
+  }
+  .teks-ourteam{
+    font-size: 20px;
+
+  }
+  .ourlesson{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -70px;
+    margin-bottom: 20px;
+    
+  }
+  .ourlesson-icon{
+    margin-bottom:50px;
+    margin-left: -50px;
+  }
+  .lesson-gambar2{
+    padding-left: 100px;
+  }
+  .ourlesson-icon h3{
+    padding-left: 195px;
+    padding-top: 15px;
+    margin: 0 auto;
+  }
+  .suhadi{
+    padding-left: 105px;
+  }
+   .lesson-gambar4{
+    padding-left: 100px;
+  }
+  .lesson-gambar5{
+    padding-top: 30px;
+    margin-left: -10px;
+  }
+  .lesson-gambar7{
+    padding-top: 30px;
+  }
+  .sidiq1{
+    margin-left: 190px;
+  }
+  .lesson-gambar6{
+    padding-left: 110px;
+  }
+  .lesson-gambar8{
+    margin-left:200px;
+  }
+  .lesson-gambar9{
+    padding-top: 30px;
+  }
+  .lesson-gambar10{
+    margin-left: 200px;
+  }
+
+  .suciono{
+    margin-left:30px; 
+  }
+  .suciono1 h3{
+    margin-left: 10px;
+  }
+  .hans p{
+    margin-left: 110px;
+  }
+  .savitri1{
+    margin-left: 195px;
+  }
+  .sidiq{
+    margin-left: 3px;
+  }
+  .suciono1{
+    margin-left: -15px;
+  }
+  .hans1{
+    margin-left: -5px;
+  }
+  .savitri h3{
+    margin-left: 3px;
+  }
+}
 
 
 
